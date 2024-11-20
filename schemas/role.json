@@ -128,7 +128,8 @@
       "label": "Title",
       "type": "string",
       "fieldType": "text",
-      "description": ""
+      "description": "",
+      "formField": true
     }
   ],
   "associatedObjects": [
