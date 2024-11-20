@@ -46,7 +46,8 @@
       "label": "Job Title",
       "type": "string",
       "fieldType": "text",
-      "description": ""
+      "description": "",
+      "formField": true
     },
     {
       "name": "notes",
@@ -67,14 +68,16 @@
       "label": "Resume",
       "type": "string",
       "fieldType": "file",
-      "description": ""
+      "description": "",
+      "formField": true
     },
     {
       "name": "salary_requirement",
       "label": "Salary Requirement",
       "type": "number",
       "fieldType": "number",
-      "description": ""
+      "description": "",
+      "formField": true
     }
   ],
   "associatedObjects": [
